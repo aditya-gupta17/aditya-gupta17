@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aditya Kumar Gupta 👋
 
-<!--
-**aditya-gupta17/aditya-gupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MIS & Business Analytics professional in Bengaluru, India, with an MBA in Marketing. I turn business data into clear reports and dashboards.
 
-Here are some ideas to get you started:
+### 🔧 Tools
+Advanced Excel (XLOOKUP, Pivot Tables) · Power BI (Power Query, DAX) · Tally · Canva · AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured projects
+- **[Brew Heaven Sales & Inventory Dashboard (Power BI)](https://github.com/aditya-gupta17/Data-Analytics-Projects):** 2-page interactive dashboard built with Power Query and DAX
+- **[Monthly Financial Dashboard (Excel)](https://github.com/aditya-gupta17/Data-Analytics-Projects):** income, expenses, and budget vs actual, with charts
+- **[Financial Analysis of HDFC Bank](https://github.com/aditya-gupta17/HDFC-Bank-Financial-Analysis):** BBA project on financial statements and key ratios
+
+### 🌱 Growing
+Strengthening Excel and Power BI · Next up: SQL
+
+### 🤝 Connect
+[LinkedIn](https://www.linkedin.com/in/aditya-k-gupta-operations)
