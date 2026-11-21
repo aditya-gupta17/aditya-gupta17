@@ -7,6 +7,7 @@ Advanced Excel (XLOOKUP, Pivot Tables) · Power BI (Power Query, DAX) · Tally �
 
 ### 📊 Featured projects
 - **[Brew Heaven Sales & Inventory Dashboard (Power BI)](https://github.com/aditya-gupta17/Data-Analytics-Projects):** 2-page interactive dashboard built with Power Query and DAX
+- **[Ration Shop Stock & Sales Tracker (Excel)](https://github.com/aditya-gupta17/Data-Analytics-Projects/tree/main/Ration-Shop-Tracker):** sales, purchases and current stock with XLOOKUP and SUMIFS, low-stock alerts and a pivot dashboard
 - **[Monthly Financial Dashboard (Excel)](https://github.com/aditya-gupta17/Data-Analytics-Projects):** income, expenses, and budget vs actual, with charts
 - **[Financial Analysis of HDFC Bank](https://github.com/aditya-gupta17/HDFC-Bank-Financial-Analysis):** BBA project on financial statements and key ratios
 
