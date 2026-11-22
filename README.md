@@ -6,6 +6,7 @@ MIS & Business Analytics professional in Bengaluru, India, with an MBA in Market
 Advanced Excel (XLOOKUP, Pivot Tables) · Power BI (Power Query, DAX) · Tally · Canva · AI tools
 
 ### 📊 Featured projects
+- **[Self-Refreshing Monthly Sales Report (Excel + Power Query)](https://github.com/aditya-gupta17/Data-Analytics-Projects/tree/main/Monthly-Sales-Report):** six messy monthly exports combined and cleaned with Power Query; dashboard, targets and checks update with one Refresh All
 - **[Brew Heaven Sales & Inventory Dashboard (Power BI)](https://github.com/aditya-gupta17/Data-Analytics-Projects):** 2-page interactive dashboard built with Power Query and DAX
 - **[Data Cleaning: Messy Export to Clean List (Excel)](https://github.com/aditya-gupta17/Data-Analytics-Projects/tree/main/Data-Cleaning):** formula-based cleanup of names, cities, phones, dates and amounts, duplicate removal, and a checks sheet that proves totals match
 - **[Sales Dashboard: Regions, Products & Targets (Excel)](https://github.com/aditya-gupta17/Data-Analytics-Projects/tree/main/Sales-Dashboard):** region, category and customer sales, monthly growth and target tracking, with a slicer-driven pivot dashboard
